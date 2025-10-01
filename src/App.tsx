@@ -83,7 +83,7 @@ function App() {
   }
 
   return (
-    <div className="min-h-screen bg-[#FAFAFA] p-4 flex flex-col items-center justify-center">
+    <div className="min-h-screen bg-red-500 p-4 flex flex-col items-center justify-center">
       <div className="max-w-4xl mx-auto text-center mb-12">
         <h1 className="text-4xl md:text-5xl font-bold text-[#2E2E2E] mb-4">
           Emotion to Quote
